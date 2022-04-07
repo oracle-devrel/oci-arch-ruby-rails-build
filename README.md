@@ -11,7 +11,7 @@ Let's go!
 The first step to get started is to download the repository to your local workspace
 
 ```shell
-git oci-arch-ruby-rails-build
+git clone https://github.com/oracle-devrel/oci-arch-ruby-rails-build.git
 cd oci-arch-ruby-rails-build
 ```
 
