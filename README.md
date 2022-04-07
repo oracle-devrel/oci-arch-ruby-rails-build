@@ -11,8 +11,8 @@ Let's go!
 The first step to get started is to download the repository to your local workspace
 
 ```shell
-git https://github.com/chiphwang1/oci-devops-node.git
-cd oci-devops-node
+git oci-arch-ruby-rails-build
+cd oci-arch-ruby-rails-build
 ```
 
 ## Install Ruby, Rails and create new application
